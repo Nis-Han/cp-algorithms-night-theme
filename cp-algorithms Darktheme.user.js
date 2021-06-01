@@ -2,8 +2,8 @@
 // @name         cp-algorithms Darktheme
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Smoke good leaves and fly
-// @author       Nishan Singh (codeforces.com/Retarded_Ape)
+// @description  Smoke some good leaves and fly
+// @author       Nishan Singh (codeforces.com/_Ape)
 // @match        https://cp-algorithms.com/*
 // @match        http://cp-algorithms.com/*
 // @grant        none
